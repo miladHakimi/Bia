@@ -8,12 +8,23 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-native-community/geolocation": "^2.0.2",
     "expo": "~38.0.8",
+    "expo-permissions": "~9.0.1",
     "expo-status-bar": "^1.0.2",
+    "expo-task-manager": "~8.3.0",
+    "geolib": "^3.3.1",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
-    "react-native-web": "~0.11.7"
+    "react-native-get-location": "^1.4.3",
+    "react-native-get-sms-android": "^2.1.0",
+    "react-native-maps": "0.27.1",
+    "react-native-sms": "^1.11.0",
+    "react-native-sms-x": "^1.0.7",
+    "react-native-web": "~0.11.7",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
