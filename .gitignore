@@ -42,7 +42,7 @@ project.xcworkspace
 # Android/IntelliJ
 #
 build/
-!android/app/build/outputs/apk
+!build/outputs/apk/
 .idea
 .gradle
 local.properties
