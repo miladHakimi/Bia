@@ -29,13 +29,13 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.example"
+      "bundleIdentifier": "com.example",
+      "buildNumber": "2"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -53,7 +53,8 @@
           "location",
           "fetch"
         ]
-      }
+      },
+      "versionCode": 2
     },
     "entryPoint": "node_modules/expo/AppEntry.js"
   }
