@@ -8,19 +8,53 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ffffff",
+      "ios": {
+        "infoPlist": {
+          "UIBackgroundModes": [
+            "location",
+            "fetch"
+          ]
+        }
+      },
+      "android": {
+        "infoPlist": {
+          "UIBackgroundModes": [
+            "location",
+            "fetch"
+          ]
+        }
+      }
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
+
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "sdkVersion": "38.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.example",
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "location",
+          "fetch"
+        ]
+      }
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
   }
 }
