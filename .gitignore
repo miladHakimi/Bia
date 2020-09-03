@@ -21,7 +21,7 @@ web-build/
 
 # Xcode
 #
-build/
+build/*
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -41,8 +41,10 @@ project.xcworkspace
 
 # Android/IntelliJ
 #
-build/
-!build/outputs/apk/
+android/build/
+android/app/build/*
+build/*
+!android/app/build/outputs
 .idea
 .gradle
 local.properties
