@@ -10,10 +10,10 @@ import DistanceDialog from '../dialog/distanceDialog';
 const BottomButton = (props) => {
     return props.destination? 
     <TouchableOpacity style={styles.submitButton} onPress={props.cancelHandler}>
-        <Text style={{fontSize: 20}}> انصراف </Text>
+        <Text style={{fontSize: 17}}> انصراف </Text>
     </TouchableOpacity>: 
     <TouchableOpacity style={styles.submitButton} onPress={props.destinationHandler}>
-        <Text style={{fontSize: 20}}> تایید مقصد </Text>
+        <Text style={{fontSize: 17}}> تایید مقصد </Text>
     </TouchableOpacity>;
 }
 
@@ -131,8 +131,8 @@ const styles = StyleSheet.create({
 	submitButton: {
 		justifyContent: 'center',
 		flexDirection: 'row',
-		height: 110,
-		width: 110,
+		height: 95,
+		width: 95,
 		borderRadius: 100,
 		alignItems: 'center',
 		marginBottom: 20,

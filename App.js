@@ -6,7 +6,8 @@ import BackgroundGeolocation from '@mauron85/react-native-background-geolocation
 import {isInside} from './utilities/distance';
 import sendDirectSms from './utilities/sms';
 import BackgroundTimer from 'react-native-background-timer';
-
+import {StyleSheet} from "react-native";
+import Updater from './utilities/updater'
 
 const initialState = {
 	currentLocation: null,
@@ -103,66 +104,6 @@ function cancelDestination(){
 	store.dispatch({ type: 'CANCEL_DESTINATION'});
 	BackgroundGeolocation.stop();
 }
-const reducer = (state=initialState, action) => {
-	switch (action.type) {
-		case 'CANCEL_DESTINATION':
-			return {
-				...state,
-				destination: null
-			}
-		case 'SET_DESTINATION':
-			return {
-				...state,
-				destination: {
-					latitude: action.latitude,
-					longitude: action.longitude
-				}
-			}
-		case 'SET_CURRENT_LOCATION':
-			return {
-				...state,
-				currentLocation: {
-					latitude: action.latitude,
-					longitude: action.longitude
-				}
-			}
-	}
-	return state
-}
-
-const store = createStore(reducer)
-
-export default function App () {
-	return(
-		<Provider store={store}>
-			<Index />
-		</Provider>
-	);
-}
-
-TaskManager.defineTask('updateLocation', ({data, error}) => {
-	if (error)
-		console.log(error)
-	if (data){
-		if (data.locations && data.locations != {} && data.locations[0].coords != {}) {
-			const { latitude, longitude } = data.locations[0].coords
-			store.dispatch({
-				type: 'SET_CURRENT_LOCATION',
-				latitude: latitude,
-				longitude: longitude
-			})
-			if(store.getState.destination != {} && latitude && longitude)
-				if(isInside({latitude, longitude}, store.getState().destination)){
-					Location.stopLocationUpdatesAsync('updateLocation')
-					console.log('بیا');
-					console.log(SendSMS);
-					SendSMS.send(123, "+959254687254", "Hey.., this is me!\nGood to see you. Have a nice day.", (msg)=>{ alert(msg) });
-				}
-		}
-	}
-})
-
-
 function setLocation({ latitude, longitude }){
 	if (!store.getState().currentLocation)
 	store.dispatch({
@@ -184,10 +125,11 @@ function setLocation({ latitude, longitude }){
 export default function App () {
 	return(
 		<Provider store={store}>
-			<Index cancelDestination={cancelDestination} setLocation={setLocation}/>
+			<Index setLocation={setLocation} cancelDestination={cancelDestination}/>
 		</Provider>
 	);
 }
+
 
 BackgroundGeolocation.on('location', (location) => {
 	if (!location || location == {})
@@ -205,3 +147,23 @@ BackgroundGeolocation.on('location', (location) => {
 		BackgroundGeolocation.endTask(taskKey);
 	});
 });
+
+const styles = StyleSheet.create({
+	container: {
+	  flex: 1,
+	  justifyContent: "center",
+	  alignItems: "center",
+	  backgroundColor: "#F5FCFF"
+	},
+	welcome: {
+	  fontSize: 20,
+	  textAlign: "center",
+	  margin: 10
+	},
+	instructions: {
+	  fontSize: 12,
+	  textAlign: "left",
+	  color: "#333333",
+	  marginBottom: 5
+	}
+  });

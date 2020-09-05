@@ -1,61 +1,61 @@
 {
-  "expo": {
-    "name": "Bia",
-    "slug": "Bia",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff",
-      "ios": {
-        "infoPlist": {
-          "UIBackgroundModes": [
-            "location",
-            "fetch"
-          ]
-        }
-      },
-      "android": {
-        "infoPlist": {
-          "UIBackgroundModes": [
-            "location",
-            "fetch"
-          ]
-        }
-      }
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.example",
-      "buildNumber": "2"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "sdkVersion": "38.0.0",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
-    "android": {
-      "package": "com.example",
-      "infoPlist": {
-        "UIBackgroundModes": [
-          "location",
-          "fetch"
-        ]
-      },
-      "versionCode": 2
-    },
-    "entryPoint": "node_modules/expo/AppEntry.js"
-  }
+	"expo": {
+		"name": "Bia",
+		"slug": "Bia",
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./assets/icon.png",
+		"splash": {
+			"image": "./assets/splash.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff",
+			"ios": {
+			"infoPlist": {
+				"UIBackgroundModes": [
+				"location",
+				"fetch"
+				]
+			}
+			},
+			"android": {
+			"infoPlist": {
+				"UIBackgroundModes": [
+				"location",
+				"fetch"
+				]
+			}
+			}
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": [
+			"**/*"
+		],
+		"ios": {
+			"supportsTablet": true,
+			"bundleIdentifier": "com.example",
+			"buildNumber": "2"
+		},
+		"web": {
+			"favicon": "./assets/favicon.png"
+		},
+		"sdkVersion": "38.0.0",
+		"platforms": [
+			"ios",
+			"android",
+			"web"
+		],
+		"android": {
+			"package": "com.example",
+			"infoPlist": {
+			"UIBackgroundModes": [
+				"location",
+				"fetch"
+			]
+			},
+			"versionCode": 2
+		},
+		"entryPoint": "node_modules/expo/AppEntry.js"
+	}
 }

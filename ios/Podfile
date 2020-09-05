@@ -91,6 +91,8 @@ target 'Bia' do
 
   pod 'RealmJS', :path => '../node_modules/realm'
 
+  pod 'rn-update-apk', :path => '../node_modules/rn-update-apk'
+
   post_install do |installer|
     flipper_post_install(installer)
   end

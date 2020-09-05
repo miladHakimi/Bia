@@ -198,6 +198,11 @@ android {
 }
 
 dependencies {
+    def appCenterSdkVersion = '3.3.0'
+    implementation "com.microsoft.appcenter:appcenter-analytics:${appCenterSdkVersion}"
+    implementation "com.microsoft.appcenter:appcenter-crashes:${appCenterSdkVersion}"
+    
+    
     compile project(':@mauron85_react-native-background-geolocation')
     
     implementation project(':react-native-unified-contacts')

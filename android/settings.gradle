@@ -1,4 +1,8 @@
 rootProject.name = 'Bia'
+include ':rn-update-apk'
+project(':rn-update-apk').projectDir = new File(rootProject.projectDir, '../node_modules/rn-update-apk/android')
+include ':rn-update-apk'
+project(':rn-update-apk').projectDir = new File(rootProject.projectDir, '../node_modules/rn-update-apk/android')
 include ':realm'
 project(':realm').projectDir = new File(rootProject.projectDir, '../node_modules/realm/android')
 

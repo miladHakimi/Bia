@@ -20,7 +20,8 @@
     "react-native-unified-contacts": "^2.0.0-pre.2",
     "react-native-unimodules": "^0.10.1",
     "react-redux": "^7.2.1",
-    "redux": "^4.0.5"
+    "redux": "^4.0.5",
+    "rn-update-apk": "^4.5.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",

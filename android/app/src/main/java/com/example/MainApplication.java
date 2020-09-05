@@ -1,10 +1,22 @@
 package com.example;
 
+import com.microsoft.appcenter.AppCenter;
+import com.microsoft.appcenter.analytics.Analytics;
+import com.microsoft.appcenter.crashes.Crashes;
+
+import com.microsoft.appcenter.AppCenter;
+import com.microsoft.appcenter.analytics.Analytics;
+import com.microsoft.appcenter.crashes.Crashes;
+
+
+
 import android.app.Application;
 import android.content.Context;
 import android.net.Uri;
 import com.facebook.react.PackageList;
 import com.facebook.react.ReactApplication;
+import net.mikehardy.rnupdateapk.RNUpdateAPKPackage;
+import net.mikehardy.rnupdateapk.RNUpdateAPKPackage;
 import com.tkporter.sendsms.SendSMSPackage;
 import com.facebook.react.ReactInstanceManager;
 import com.facebook.react.ReactNativeHost;
@@ -51,6 +63,8 @@ public class MainApplication extends Application implements ReactApplication {
     // protected List<ReactPackage> getPackages() {
     //   return Arrays.<ReactPackage>asList(
     //       new MainReactPackage(),
+            // new RNUpdateAPKPackage(),
+            // new RNUpdateAPKPackage(),
             // new RealmReactPackage(),
     //         new GeolocationPackage(),
     //       new DirectSmsPackage() //add this
@@ -93,7 +107,6 @@ public class MainApplication extends Application implements ReactApplication {
     if (!BuildConfig.DEBUG) {
       UpdatesController.initialize(this);
     }
-
     initializeFlipper(this, getReactNativeHost().getReactInstanceManager());
   }
 

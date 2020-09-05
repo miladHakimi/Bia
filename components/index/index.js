@@ -9,6 +9,7 @@ import ButtonBox from './buttonBox';
 import BackgroundTimer from 'react-native-background-timer';
 import Loader from './loader';
 import BackgroundGeolocation from '@mauron85/react-native-background-geolocation';
+import Updater from '../../utilities/updater';
 
 const SPEED = 12;
 const MIN_FETCH_TIME = 25000;
@@ -42,6 +43,11 @@ function Index (props) {
 		props.cancelDestination();
 	}
 	useEffect( () => {
+		Updater.checkUpdate()
+		.then( res => {
+			res? Updater.checkUpdate: null;
+		})
+
 		BackgroundGeolocation.getCurrentLocation((location) => {
 			const { latitude, longitude } = location;
 			props.setLocation({ latitude, longitude })
