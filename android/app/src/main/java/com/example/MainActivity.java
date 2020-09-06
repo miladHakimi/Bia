@@ -3,7 +3,7 @@ package com.example;
 import android.content.Intent; // <-- include if not already there
 // import com.tkporter.sendsms.SendSMSPackage;
 import android.os.Bundle;
-
+import com.microsoft.codepush.react.ReactInstanceHolder;
 import com.microsoft.appcenter.AppCenter;
 import com.microsoft.appcenter.analytics.Analytics;
 import com.microsoft.appcenter.crashes.Crashes;

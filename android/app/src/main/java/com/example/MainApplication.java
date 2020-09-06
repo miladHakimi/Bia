@@ -1,5 +1,5 @@
 package com.example;
-
+import com.microsoft.codepush.react.CodePush;
 import com.microsoft.appcenter.AppCenter;
 import com.microsoft.appcenter.analytics.Analytics;
 import com.microsoft.appcenter.crashes.Crashes;
@@ -25,7 +25,6 @@ import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
 import com.example.generated.BasePackageList;
-
 import org.unimodules.adapters.react.ReactAdapterPackage;
 import org.unimodules.adapters.react.ModuleRegistryAdapter;
 import org.unimodules.adapters.react.ReactModuleRegistryProvider;
@@ -72,13 +71,14 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
-            new BackgroundTimerPackage(),
-            new MapsPackage(),
-            new RNUpdateAPKPackage(),
-            new DirectSmsPackage(), //add this
-            new ModuleRegistryAdapter(mModuleRegistryProvider),
-            new BackgroundGeolocationPackage() // <---- Add the Package
-      );
+          new BackgroundTimerPackage(),
+          new MapsPackage(),
+          new RNUpdateAPKPackage(),
+          new DirectSmsPackage(), //add this
+          new ModuleRegistryAdapter(mModuleRegistryProvider),
+          new BackgroundGeolocationPackage(),
+          new CodePush("deployment-key-here", MainApplication.this, BuildConfig.DEBUG)
+        );
     }
     @Override
     protected String getJSMainModuleName() {
@@ -92,6 +92,11 @@ public class MainApplication extends Application implements ReactApplication {
       } else {
         return UpdatesController.getInstance().getLaunchAssetFile();
       }
+    }
+
+    @Override
+    protected String getJSBundleFile() {
+        return CodePush.getJSBundleFile();
     }
 
     @Override

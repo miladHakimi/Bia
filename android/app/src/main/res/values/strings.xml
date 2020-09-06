@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Bia</string>
+    <string moduleConfig="true" name="741f3860-913a-47d6-8dc0-6267c5af3220">DeploymentKey</string>
 </resources>
