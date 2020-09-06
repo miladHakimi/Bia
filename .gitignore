@@ -40,11 +40,13 @@ DerivedData
 project.xcworkspace
 
 # Android/IntelliJ
-#
+android/app/build/outputs/apk/debug/*
 android/build/
 android/app/build/*
+android/app/build/outputs/
+
 build/*
-!android/app/build/outputs
+!android/app/build/outputs/apk/release/*
 .idea
 .gradle
 local.properties
