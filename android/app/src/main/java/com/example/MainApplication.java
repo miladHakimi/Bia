@@ -77,7 +77,7 @@ public class MainApplication extends Application implements ReactApplication {
           new DirectSmsPackage(), //add this
           new ModuleRegistryAdapter(mModuleRegistryProvider),
           new BackgroundGeolocationPackage(),
-          new CodePush("deployment-key-here", MainApplication.this, BuildConfig.DEBUG)
+          new CodePush("741f3860-913a-47d6-8dc0-6267c5af3220", MainApplication.this, BuildConfig.DEBUG)
         );
     }
     @Override
