@@ -11,6 +11,7 @@ import Updater from './utilities/updater'
 const CodePush = require("code-push");
 const codePush = new CodePush("741f3860-913a-47d6-8dc0-6267c5af3220");
 
+
 const initialState = {
 	currentLocation: null,
 	destination: null,
