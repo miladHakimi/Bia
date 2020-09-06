@@ -6,12 +6,18 @@ project(':react-native-maps').projectDir = new File(rootProject.projectDir, '../
 include ':react-native-sms'
 project(':react-native-sms').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-sms/android')
 
+
+apply from: '../node_modules/react-native-unimodules/gradle.groovy'
+includeUnimodulesProjects()
+
+
 include ':rn-update-apk'
 project(':rn-update-apk').projectDir = new File(rootProject.projectDir, '../node_modules/rn-update-apk/android')
 include ':rn-update-apk'
 project(':rn-update-apk').projectDir = new File(rootProject.projectDir, '../node_modules/rn-update-apk/android')
 include ':realm'
 project(':realm').projectDir = new File(rootProject.projectDir, '../node_modules/realm/android')
+
 
 include ':react-native-sms'
 project(':react-native-sms').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-sms/android')
@@ -25,12 +31,9 @@ project(':@mauron85_react-native-background-geolocation-common').projectDir = ne
 
 include ':react-native-unified-contacts'
 project(':react-native-unified-contacts').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-unified-contacts/android')    
-apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle");
-applyNativeModulesSettingsGradle(settings)
+// apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle");
+// applyNativeModulesSettingsGradle(settings)
 
-
-apply from: '../node_modules/react-native-unimodules/gradle.groovy'
-includeUnimodulesProjects()
 
 include ':app', ':react-native-code-push'
 project(':react-native-code-push').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-code-push/android/app')
