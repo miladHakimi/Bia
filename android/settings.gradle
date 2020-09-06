@@ -8,6 +8,9 @@ project(':react-native-sms').projectDir = new File(rootProject.projectDir, '../n
 
 
 apply from: '../node_modules/react-native-unimodules/gradle.groovy'
+includeUnimodules([
+        modulesPaths: ['../../node_modules']
+])
 includeUnimodulesProjects()
 
 
