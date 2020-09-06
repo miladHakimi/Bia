@@ -93,6 +93,10 @@ target 'Bia' do
 
   pod 'rn-update-apk', :path => '../node_modules/rn-update-apk'
 
+  pod 'react-native-maps', :path => '../node_modules/react-native-maps'
+
+  pod 'react-native-background-timer', :path => '../node_modules/react-native-background-timer'
+
   post_install do |installer|
     flipper_post_install(installer)
   end

@@ -1,10 +1,20 @@
 rootProject.name = 'Bia'
+include ':react-native-background-timer'
+project(':react-native-background-timer').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-background-timer/android')
+include ':react-native-maps'
+project(':react-native-maps').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-maps/lib/android')
+include ':react-native-sms'
+project(':react-native-sms').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-sms/android')
+
 include ':rn-update-apk'
 project(':rn-update-apk').projectDir = new File(rootProject.projectDir, '../node_modules/rn-update-apk/android')
 include ':rn-update-apk'
 project(':rn-update-apk').projectDir = new File(rootProject.projectDir, '../node_modules/rn-update-apk/android')
 include ':realm'
 project(':realm').projectDir = new File(rootProject.projectDir, '../node_modules/realm/android')
+
+apply from: '../node_modules/react-native-unimodules/gradle.groovy'
+includeUnimodulesProjects()
 
 include ':react-native-sms'
 project(':react-native-sms').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-sms/android')
@@ -15,8 +25,6 @@ include ':@mauron85_react-native-background-geolocation'
 project(':@mauron85_react-native-background-geolocation').projectDir = new File(rootProject.projectDir, '../node_modules/@mauron85/react-native-background-geolocation/android/lib')
 include ':@mauron85_react-native-background-geolocation-common'
 project(':@mauron85_react-native-background-geolocation-common').projectDir = new File(rootProject.projectDir, '../node_modules/@mauron85/react-native-background-geolocation/android/common')
-apply from: '../node_modules/react-native-unimodules/gradle.groovy'
-includeUnimodulesProjects()
 
 include ':react-native-unified-contacts'
 project(':react-native-unified-contacts').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-unified-contacts/android')    

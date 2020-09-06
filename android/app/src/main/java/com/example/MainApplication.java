@@ -8,16 +8,17 @@ import com.microsoft.appcenter.AppCenter;
 import com.microsoft.appcenter.analytics.Analytics;
 import com.microsoft.appcenter.crashes.Crashes;
 
-
-
+import com.marianhello.bgloc.react.BackgroundGeolocationPackage;  // <--- Import Package
 import android.app.Application;
 import android.content.Context;
 import android.net.Uri;
 import com.facebook.react.PackageList;
 import com.facebook.react.ReactApplication;
+import com.ocetnik.timer.BackgroundTimerPackage;
+import com.airbnb.android.react.maps.MapsPackage;
+// import com.tkporter.sendsms.SendSMSPackage;
 import net.mikehardy.rnupdateapk.RNUpdateAPKPackage;
 import net.mikehardy.rnupdateapk.RNUpdateAPKPackage;
-import com.tkporter.sendsms.SendSMSPackage;
 import com.facebook.react.ReactInstanceManager;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
@@ -42,8 +43,11 @@ import javax.annotation.Nullable;
 
 public class MainApplication extends Application implements ReactApplication {
   private final ReactModuleRegistryProvider mModuleRegistryProvider = new ReactModuleRegistryProvider(
-    new BasePackageList().getPackageList()
+    new BasePackageList().getPackageList(), null
   );
+  // private final ReactModuleRegistryProvider mModuleRegistryProvider = new ReactModuleRegistryProvider(
+  //   new BasePackageList().getPackageList()
+  // );
 
   private final ReactNativeHost mReactNativeHost = new ReactNativeHost(this) {
     @Override
@@ -51,25 +55,30 @@ public class MainApplication extends Application implements ReactApplication {
       return BuildConfig.DEBUG;
     }
 
-    @Override
-    protected List<ReactPackage> getPackages() { 
-      List<ReactPackage> packages = new PackageList(this).getPackages();
-      packages.add(new ModuleRegistryAdapter(mModuleRegistryProvider));
-      packages.add(new DirectSmsPackage());
-
-      return packages;
-    }
     // @Override
-    // protected List<ReactPackage> getPackages() {
-    //   return Arrays.<ReactPackage>asList(
-    //       new MainReactPackage(),
-            // new RNUpdateAPKPackage(),
-            // new RNUpdateAPKPackage(),
-            // new RealmReactPackage(),
-    //         new GeolocationPackage(),
-    //       new DirectSmsPackage() //add this
+    // protected List<ReactPackage> getPackages() { 
+    //   List<ReactPackage> packages = new PackageList(this).getPackages();
+    //   packages.add(new ModuleRegistryAdapter(mModuleRegistryProvider));
+    //   packages.add(new DirectSmsPackage());
+    //   List<ReactPackage> unimodules = Arrays.<ReactPackage>asList(
+    //     new ModuleRegistryAdapter(mModuleRegistryProvider)
     //   );
+    //   packages.addAll(unimodules);
+
+    //   return packages;
     // }
+    @Override
+    protected List<ReactPackage> getPackages() {
+      return Arrays.<ReactPackage>asList(
+          new MainReactPackage(),
+            new BackgroundTimerPackage(),
+            new MapsPackage(),
+            new RNUpdateAPKPackage(),
+            new DirectSmsPackage(), //add this
+            new ModuleRegistryAdapter(mModuleRegistryProvider),
+            new BackgroundGeolocationPackage() // <---- Add the Package
+      );
+    }
     @Override
     protected String getJSMainModuleName() {
       return "index";

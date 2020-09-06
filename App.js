@@ -4,7 +4,6 @@ import {Provider} from 'react-redux'
 import Index from './components/index/index'
 import BackgroundGeolocation from '@mauron85/react-native-background-geolocation';
 import {isInside} from './utilities/distance';
-import sendDirectSms from './utilities/sms';
 import BackgroundTimer from 'react-native-background-timer';
 import {StyleSheet} from "react-native";
 import Updater from './utilities/updater'
@@ -129,24 +128,6 @@ export default function App () {
 		</Provider>
 	);
 }
-
-
-BackgroundGeolocation.on('location', (location) => {
-	if (!location || location == {})
-		return
-	props = store.getState()
-	BackgroundGeolocation.startTask(taskKey => {
-		const { latitude, longitude } = location;
-
-		if(isInside({latitude, longitude}, props.destination, props.distance)){
-			sendDirectSms(props.SMSText, props.phone);
-			console.log('sent!')
-			cancelDestination();
-		}
-		setLocation({ latitude, longitude });
-		BackgroundGeolocation.endTask(taskKey);
-	});
-});
 
 const styles = StyleSheet.create({
 	container: {

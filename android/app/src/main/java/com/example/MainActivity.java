@@ -1,12 +1,8 @@
 package com.example;
 
 import android.content.Intent; // <-- include if not already there
-import com.tkporter.sendsms.SendSMSPackage;
+// import com.tkporter.sendsms.SendSMSPackage;
 import android.os.Bundle;
-
-import com.microsoft.appcenter.AppCenter;
-import com.microsoft.appcenter.analytics.Analytics;
-import com.microsoft.appcenter.crashes.Crashes;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -20,7 +16,6 @@ public class MainActivity extends ReactActivity {
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
-    AppCenter.start(getApplication(), "741f3860-913a-47d6-8dc0-6267c5af3220", Analytics.class, Crashes.class);
     // SplashScreen.show(...) has to be called after super.onCreate(...)
     // Below line is handled by '@expo/configure-splash-screen' command and it's discouraged to modify it manually
     SplashScreen.show(this, SplashScreenImageResizeMode.CONTAIN, false);
@@ -40,7 +35,7 @@ public class MainActivity extends ReactActivity {
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         //probably some other stuff here
-        SendSMSPackage.getInstance().onActivityResult(requestCode, resultCode, data);
+        // SendSMSPackage.getInstance().onActivityResult(requestCode, resultCode, data);
     }
     
     @Override
