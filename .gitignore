@@ -21,7 +21,7 @@ web-build/
 
 # Xcode
 #
-build/*
+build/
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -40,13 +40,9 @@ DerivedData
 project.xcworkspace
 
 # Android/IntelliJ
-android/app/build/outputs/apk/debug/*
-android/build/
-android/app/build/*
-android/app/build/outputs/
 
-build/*
-!android/app/build/outputs/apk/release/*
+
+build/
 .idea
 .gradle
 local.properties
@@ -83,3 +79,4 @@ buck-out/
 # Expo
 .expo/*
 web-build/
+android/app/build/outputs/apk/debug/app-arm64-v8a-debug.apk
