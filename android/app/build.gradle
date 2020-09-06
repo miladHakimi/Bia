@@ -81,7 +81,6 @@ project.ext.react = [
     enableHermes: false
 ]
 
-apply from: '../../node_modules/react-native-unimodules/gradle.groovy'
 apply from: "../../node_modules/react-native/react.gradle"
 apply from: "../../node_modules/expo-updates/scripts/create-manifest-android.gradle"
 /**
@@ -195,7 +194,7 @@ android {
         }
     }
 }
-
+apply from: "../../node_modules/react-native-unimodules/gradle.groovy"
 dependencies {
     // compile project(':realm')
     implementation project(':react-native-gesture-handler')
@@ -221,7 +220,21 @@ dependencies {
     debugImplementation("com.facebook.flipper:flipper-fresco-plugin:${FLIPPER_VERSION}") {
         exclude group:'com.facebook.flipper'
     }
-    addUnimodulesDependencies()
+    addUnimodulesDependencies(
+        modulesPaths : [
+        '../../node_modules'
+        ],
+        configuration: 'api',
+        target       : 'react-native',
+        exclude      : [
+            // You can exclude unneeded modules here, e.g.,
+            // 'unimodules-face-detector-interface',
+            // 'expo-face-detector'
+
+            // Adding a name here will also remove the package
+            // from auto-generated BasePackageList.java
+        ]
+    )
 
     if (enableHermes) {
         def hermesPath = "../../node_modules/hermes-engine/android/";
