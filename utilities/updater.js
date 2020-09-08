@@ -8,8 +8,18 @@ const projectLink = "https://raw.githubusercontent.com/miladHakimi/Bia/master/ap
 const downloadLink = "https://raw.githubusercontent.com/miladHakimi/Bia/master/android/app/build/outputs/apk/release/app-armeabi-v7a-release.apk"
 // const installPath = RNFS.DownloadDirectoryPath + '/bia' + pkg.expo.android.versionCode.toString() + '.apk';
 
-const downloader = () => {
-    PermissionsAndroid.request(PermissionsAndroid.PERMISSIONS.WRITE_EXTERNAL_STORAGE);
+const downloader = async () => {
+    const granted = await PermissionsAndroid.request(PermissionsAndroid.PERMISSIONS.WRITE_EXTERNAL_STORAGE, 
+        {
+            title: 'دسترسی به فایل',
+            message:
+            'بیا برای دریافت آپدیت به دسترسی به فایل نیاز داره.',
+            buttonNeutral: 'Ask Me Later',
+            buttonNegative: 'Cancel',
+            buttonPositive: 'OK',
+        });
+    if (granted !== PermissionsAndroid.RESULTS.GRANTED)
+        return
     RNFetchBlob.config({
         path : 'Downloads/bia.apk',
         addAndroidDownloads : {
@@ -22,7 +32,21 @@ const downloader = () => {
         }
       })
       .fetch('GET', downloadLink)
-      .then(Alert.alert('اتمام دانلود', 'لطفا نسخه‌ی کنونی نرم افزار را پاک کنید و نسخه‌ی دانلود شده را نصب نمایید.', { cancelable: true }))
+      .then((res) =>{ 
+        console.log(res)
+       Alert.alert(
+          'اتمام دانلود',
+          'لطفا نسخه‌ی کنونی نرم افزار را پاک کنید و نسخه‌ی دانلود شده را نصب نمایید.', 
+            [
+                {  
+                    text: 'باشه',  
+                    onPress: () => {},  
+                    style: 'cancel',  
+                },  
+            ],
+      { cancelable: true }
+      )
+    })
 }
 export default class Updater {
     static showAlert = () => {
@@ -35,7 +59,7 @@ export default class Updater {
                     onPress: () => {},  
                     style: 'cancel',  
                 },  
-				{text: 'بله', onPress: downloader },  
+				{text: 'بله', onPress: () => {downloader()} },  
             ],
             { cancelable: true }
         );      

@@ -3,7 +3,7 @@ import { PermissionsAndroid } from 'react-native';
 
 var DirectSms = NativeModules.DirectSms;
 export const getSendSMSPermission = async () => 
-    await PermissionsAndroid.request(
+    PermissionsAndroid.request(
         PermissionsAndroid.PERMISSIONS.SEND_SMS,
         {
             title: 'Bia App Send SMS Permission',
