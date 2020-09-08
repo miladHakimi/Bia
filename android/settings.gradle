@@ -1,4 +1,16 @@
 rootProject.name = 'Bia'
+include ':react-native-unified-contacts'
+project(':react-native-unified-contacts').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-unified-contacts/android')
+include ':react-native-apk-installer-n'
+project(':react-native-apk-installer-n').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-apk-installer-n/android')
+include ':react-native-send-intent'
+project(':react-native-send-intent').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-send-intent/android')
+include ':react-native-apk-manager'
+project(':react-native-apk-manager').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-apk-manager/android')
+include ':rn-fetch-blob'
+project(':rn-fetch-blob').projectDir = new File(rootProject.projectDir, '../node_modules/rn-fetch-blob/android')
+include ':react-native-fs'
+project(':react-native-fs').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-fs/android')
 include ':react-native-background-timer'
 project(':react-native-background-timer').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-background-timer/android')
 include ':react-native-maps'
@@ -12,14 +24,10 @@ includeUnimodulesProjects()
 
 include ':rn-update-apk'
 project(':rn-update-apk').projectDir = new File(rootProject.projectDir, '../node_modules/rn-update-apk/android')
-include ':rn-update-apk'
-project(':rn-update-apk').projectDir = new File(rootProject.projectDir, '../node_modules/rn-update-apk/android')
 include ':realm'
 project(':realm').projectDir = new File(rootProject.projectDir, '../node_modules/realm/android')
 
 
-include ':react-native-sms'
-project(':react-native-sms').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-sms/android')
 include ':@react-native-community_geolocation'
 project(':@react-native-community_geolocation').projectDir = new File(rootProject.projectDir, '../node_modules/@react-native-community/geolocation/android')
 
@@ -32,6 +40,5 @@ include ':react-native-unified-contacts'
 project(':react-native-unified-contacts').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-unified-contacts/android')    
 apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle");
 applyNativeModulesSettingsGradle(settings)
-
 
 include ':app'

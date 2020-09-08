@@ -793,6 +793,26 @@ library {
 }
 library {
   maven_library {
+    groupId: "androidx.tonyodev.fetch2"
+    artifactId: "xfetch2"
+    version: "3.1.4"
+  }
+  digests {
+    sha256: "+\310l\345_\2304\300\224\245\300\024xG\322y&\327\312\f~\340;\372\352\005\023\363\240M]@"
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.tonyodev.fetch2core"
+    artifactId: "xfetch2core"
+    version: "3.1.4"
+  }
+  digests {
+    sha256: "?\203D\312\262\320\004\314\nl\330\374X,\322)u\224#\225\305z\035!_4\354\n\222\215\344c"
+  }
+}
+library {
+  maven_library {
     groupId: "com.intentfilter"
     artifactId: "android-permissions"
     version: "0.1.7"
@@ -1375,81 +1395,91 @@ library_dependencies {
 }
 library_dependencies {
   library_index: 79
+  library_dep_index: 1
+  library_dep_index: 74
+  library_dep_index: 80
 }
 library_dependencies {
   library_index: 80
-  library_dep_index: 81
+  library_dep_index: 1
 }
 library_dependencies {
   library_index: 81
 }
 library_dependencies {
   library_index: 82
+  library_dep_index: 83
 }
 library_dependencies {
   library_index: 83
 }
 library_dependencies {
   library_index: 84
-  library_dep_index: 46
-  library_dep_index: 12
-  library_dep_index: 40
-  library_dep_index: 85
 }
 library_dependencies {
   library_index: 85
-  library_dep_index: 40
-  library_dep_index: 45
-  library_dep_index: 42
-  library_dep_index: 86
-  library_dep_index: 46
 }
 library_dependencies {
   library_index: 86
+  library_dep_index: 46
+  library_dep_index: 12
+  library_dep_index: 40
+  library_dep_index: 87
+}
+library_dependencies {
+  library_index: 87
+  library_dep_index: 40
+  library_dep_index: 45
+  library_dep_index: 42
+  library_dep_index: 88
+  library_dep_index: 46
+}
+library_dependencies {
+  library_index: 88
   library_dep_index: 42
   library_dep_index: 41
   library_dep_index: 40
 }
 library_dependencies {
-  library_index: 87
-  library_dep_index: 88
-}
-library_dependencies {
-  library_index: 88
-}
-library_dependencies {
   library_index: 89
-  library_dep_index: 88
+  library_dep_index: 90
 }
 library_dependencies {
   library_index: 90
 }
 library_dependencies {
   library_index: 91
-  library_dep_index: 20
-  library_dep_index: 68
-  library_dep_index: 69
+  library_dep_index: 90
 }
 library_dependencies {
   library_index: 92
 }
 library_dependencies {
   library_index: 93
-  library_dep_index: 94
+  library_dep_index: 20
   library_dep_index: 68
   library_dep_index: 69
 }
 library_dependencies {
   library_index: 94
+}
+library_dependencies {
+  library_index: 95
+  library_dep_index: 96
+  library_dep_index: 68
+  library_dep_index: 69
+}
+library_dependencies {
+  library_index: 96
   library_dep_index: 68
   library_dep_index: 69
 }
 module_dependencies {
   module_name: "base"
-  dependency_index: 84
   dependency_index: 5
-  dependency_index: 87
+  dependency_index: 86
   dependency_index: 89
-  dependency_index: 90
+  dependency_index: 91
+  dependency_index: 92
   dependency_index: 61
 }

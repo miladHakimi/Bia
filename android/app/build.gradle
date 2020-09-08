@@ -202,6 +202,7 @@ dependencies {
     implementation "com.microsoft.appcenter:appcenter-analytics:${appCenterSdkVersion}"
     implementation "com.microsoft.appcenter:appcenter-crashes:${appCenterSdkVersion}"
     
+    compile project(':react-native-fs')
     
     compile project(':@mauron85_react-native-background-geolocation')
     

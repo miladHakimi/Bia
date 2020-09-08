@@ -14,6 +14,7 @@
     "react-native": "~0.62.2",
     "react-native-background-timer": "^2.3.1",
     "react-native-dialog": "^5.6.0",
+    "react-native-fs": "^2.16.6",
     "react-native-gesture-handler": "^1.7.0",
     "react-native-maps": "^0.27.1",
     "react-native-sms": "^1.11.0",
@@ -21,6 +22,7 @@
     "react-native-unimodules": "^0.10.1",
     "react-redux": "^7.2.1",
     "redux": "^4.0.5",
+    "rn-fetch-blob": "^0.12.0",
     "rn-update-apk": "^4.5.0"
   },
   "devDependencies": {

@@ -1,11 +1,29 @@
 import React, {useState} from 'react';
-import { Text, View, StyleSheet, TouchableOpacity } from 'react-native';
+import { Text, View, StyleSheet, TouchableOpacity, Alert } from 'react-native';
 import { MaterialIcons, MaterialCommunityIcons, AntDesign} from '@expo/vector-icons';
 import {connect} from 'react-redux';
 import BackgroundGeolocation from '@mauron85/react-native-background-geolocation';
 import ContactDialog from '../dialog/setContact'
 import MessageDialog from '../dialog/messageDialog'
 import DistanceDialog from '../dialog/distanceDialog';
+import { PermissionsAndroid } from 'react-native';
+import { getSendSMSPermission } from '../../utilities/sms';
+
+const config = {
+	desiredAccuracy: BackgroundGeolocation.HIGH_ACCURACY,
+	stationaryRadius: 100,
+	distanceFilter: 150,
+	notificationTitle: 'درحال استفاده از GPS',
+	notificationText: '',
+	debug: false,
+	startOnBoot: false,
+	stopOnTerminate: true,
+	locationProvider: BackgroundGeolocation.ACTIVITY_PROVIDER,
+	stopOnStillActivity: false,
+	distanceFilter: 100,
+	startForeground: true,
+	url: null
+}
 
 const BottomButton = (props) => {
     return props.destination? 
@@ -38,13 +56,21 @@ function ButtonBox(props) {
 	const [messagetDialogVisibility, setMessageDialogVisibility] = useState(false)
 	const [distanceDialogVisibility, setDistanceDialogVisibility] = useState(false)
 
-    function destinationHandler() {
+    async function destinationHandler() {
+		const granted = await getSendSMSPermission();
+		console.log(granted)
+        if (granted !== PermissionsAndroid.RESULTS.GRANTED){
+			Alert.alert('', 'این نرم افزار بدون داشتن قابلیت ارسال sms قادر به کار نیست.')
+			return
+		}
 		props.setSMSLimit(1);
 		props.setDestination(props.region);
 		BackgroundGeolocation.checkStatus(status => {
-			if (!status.isRunning) 
-				BackgroundGeolocation.start(); 
 			
+			if (!status.isRunning) {
+				BackgroundGeolocation.configure(config);
+				BackgroundGeolocation.start(); 
+			}
 			else
 				BackgroundGeolocation.stop();
 		});

@@ -5,37 +5,19 @@ INJECTED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/Android
 INJECTED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:1:1-51:12
 INJECTED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:1:1-51:12
 MERGED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:1:1-51:12
-MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:1-91:12
-MERGED from [com.facebook.fresco:animated-gif:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/428e9c67886fbbd8d2c8a5f80db60cd1/jetified-animated-gif-1.14.2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.flipper:flipper:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/6210fe1a1e507e9a8fcf1e8bf1ebdc41/jetified-flipper-0.33.1/AndroidManifest.xml:8:1-18:12
-MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/9136e18f5e07f1e1cdfdd9877ccd527a/jetified-flipper-network-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
-MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/527a037080dbe1f7c6f2da9867b9d37b/jetified-flipper-fresco-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
-MERGED from [:react-native-gesture-handler] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.microsoft.appcenter:appcenter-analytics:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/b05c936e008ae06ea699a593d6172c0e/jetified-appcenter-analytics-3.3.0/AndroidManifest.xml:6:1-15:12
-MERGED from [com.microsoft.appcenter:appcenter-crashes:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/c8458ac9dae20b16ee23921f529609a4/jetified-appcenter-crashes-3.3.0/AndroidManifest.xml:6:1-15:12
-MERGED from [:react-native-unified-contacts] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-unified-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:unimodules-react-native-adapter] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
-MERGED from [:expo-splash-screen] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:expo-updates] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-updates/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
-MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:1-91:12
-MERGED from [:react-native-background-timer] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
-MERGED from [:react-native-maps] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
-MERGED from [:react-native-sms] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-sms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:rn-update-apk] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-update-apk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.62.2] /root/.gradle/caches/transforms-2/files-2.1/f242da40de3c6f68b0bbcc4529851cde/jetified-react-native-0.62.2/AndroidManifest.xml:2:1-13:12
-MERGED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/618211d1ab883b8af92fe8464427cdc9/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/554f6c5de0bab88354f9fe1fd794baf2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/5cf6d9879554602b04fe19782a394b79/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [:expo-constants] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-error-recovery] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
 MERGED from [:expo-font] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-image-loader] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-image-loader/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-keep-awake] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-linear-gradient] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
 MERGED from [:expo-permissions] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-splash-screen] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-sqlite] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-updates] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-updates/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
 MERGED from [:unimodules-app-loader] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/unimodules-app-loader/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:unimodules-permissions-interface] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:unimodules-task-manager-interface] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -48,29 +30,36 @@ MERGED from [:unimodules-file-system-interface] /media/milad/BE7FEA2CE26FB49E/Bi
 MERGED from [:unimodules-font-interface] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:unimodules-image-loader-interface] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:unimodules-sensors-interface] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fs] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:1-91:12
+MERGED from [com.facebook.fresco:animated-gif:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/428e9c67886fbbd8d2c8a5f80db60cd1/jetified-animated-gif-1.14.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.flipper:flipper:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/6210fe1a1e507e9a8fcf1e8bf1ebdc41/jetified-flipper-0.33.1/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/9136e18f5e07f1e1cdfdd9877ccd527a/jetified-flipper-network-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/527a037080dbe1f7c6f2da9867b9d37b/jetified-flipper-fresco-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-gesture-handler] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.microsoft.appcenter:appcenter-analytics:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/b05c936e008ae06ea699a593d6172c0e/jetified-appcenter-analytics-3.3.0/AndroidManifest.xml:6:1-15:12
+MERGED from [com.microsoft.appcenter:appcenter-crashes:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/c8458ac9dae20b16ee23921f529609a4/jetified-appcenter-crashes-3.3.0/AndroidManifest.xml:6:1-15:12
+MERGED from [:react-native-unified-contacts] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-unified-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:1-91:12
+MERGED from [:react-native-background-timer] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-maps] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-sms] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-sms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-47:12
+MERGED from [:rn-update-apk] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-update-apk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.62.2] /root/.gradle/caches/transforms-2/files-2.1/f242da40de3c6f68b0bbcc4529851cde/jetified-react-native-0.62.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/618211d1ab883b8af92fe8464427cdc9/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/554f6c5de0bab88354f9fe1fd794baf2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/5cf6d9879554602b04fe19782a394b79/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r245459] /root/.gradle/caches/transforms-2/files-2.1/95b8671820f4b6c435d5c1f558c58c7d/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:1-85:12
-MERGED from [com.facebook.fresco:animated-base:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/bcbe5f58b54864ec0d116c583781424d/jetified-animated-base-1.14.2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:flipper:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/fce7e95afb155749174e8f3776251f08/jetified-flipper-2.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:stetho:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/23371b4cc5cbefd03534238c32907371/jetified-stetho-2.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fresco:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/77979f4a869a1075e0e16278c1b2ec27/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/a012574d4deb6bde29af80a3b10dca93/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:animated-drawable:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/18a1566c6476deddeaf1c8d4d8650dda/jetified-animated-drawable-1.14.2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/056f9c6b64e9137153e66ac9076854ca/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/7cf2d6939973e793c7b4f95084f6b68a/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/b7bd6fd20c32c4976ced2819aa27b001/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/2ac9ee3251309852a010a40e7bb51c8c/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/b78e7f3d1d2a5080a5865d2f22b776d8/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.8.2] /root/.gradle/caches/transforms-2/files-2.1/2fef4ea71c1b4fe226ffd3fff1cf6464/jetified-soloader-0.8.2/AndroidManifest.xml:2:1-13:12
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/85de9c24c6ba41c8fb7f4acac53286f4/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/102f4e5339e61a836806a4922c0ccf33/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.microsoft.appcenter:appcenter:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/4a4673c90abadd3e862ae98c09732edd/jetified-appcenter-3.3.0/AndroidManifest.xml:6:1-18:12
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /root/.gradle/caches/transforms-2/files-2.1/91270e2b3e721892625189244d8bbadd/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/2eb5e3945536510164aaa4e72bb14e0e/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/103a5bef9a52d4c5079ff4ea90eb7817/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/0b658d903801ec95cdd3ae2d162fe82a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.media:media:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/cc36db471f6962ec1fa603fd6be01f03/media-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/db772883901338568bd91d7e0fde9bca/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /root/.gradle/caches/transforms-2/files-2.1/7cb910d7d740728b1504fbacb01992e4/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.room:room-runtime:2.1.0] /root/.gradle/caches/transforms-2/files-2.1/6af9853f47fad4c93cfd121e201d857f/room-runtime-2.1.0/AndroidManifest.xml:17:1-30:12
 MERGED from [com.google.android.gms:play-services-location:17.0.0] /root/.gradle/caches/transforms-2/files-2.1/9b7d5e6048413cc79d4dad2ed7f8ce60/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /root/.gradle/caches/transforms-2/files-2.1/cf48b6a5d1983746bdeb31db066e7936/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
@@ -92,7 +81,6 @@ MERGED from [androidx.activity:activity:1.0.0] /root/.gradle/caches/transforms-2
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/1c6229cb69cc539f7d59a994102849b2/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/73435d3d97560fff0f796379f3e1a830/core-1.1.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/df191918bea949ce61e7ca62b4b75df6/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /root/.gradle/caches/transforms-2/files-2.1/7cb910d7d740728b1504fbacb01992e4/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /root/.gradle/caches/transforms-2/files-2.1/9363be91672234732618b7546d40bbfc/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.sqlite:sqlite:2.0.1] /root/.gradle/caches/transforms-2/files-2.1/068227a52accd5937ce41538b107a260/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/7ae3556a3bb89f642bb4132c094dfa21/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
@@ -105,7 +93,21 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /root/.grad
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /root/.gradle/caches/transforms-2/files-2.1/41c5626575f5285356d9a3b9feb54f85/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /root/.gradle/caches/transforms-2/files-2.1/62f2845e931165ac043d2c80125779ed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/eb4679ed75dd889c20a694ae024d9632/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/a012574d4deb6bde29af80a3b10dca93/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/fce7e95afb155749174e8f3776251f08/jetified-flipper-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/23371b4cc5cbefd03534238c32907371/jetified-stetho-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/77979f4a869a1075e0e16278c1b2ec27/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [io.nlopez.smartlocation:library:3.2.11] /root/.gradle/caches/transforms-2/files-2.1/3c2e8c0e83be621b2eb548385ddb26e9/jetified-library-3.2.11/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:animated-base:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/bcbe5f58b54864ec0d116c583781424d/jetified-animated-base-1.14.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/18a1566c6476deddeaf1c8d4d8650dda/jetified-animated-drawable-1.14.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/056f9c6b64e9137153e66ac9076854ca/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/7cf2d6939973e793c7b4f95084f6b68a/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/b7bd6fd20c32c4976ced2819aa27b001/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/2ac9ee3251309852a010a40e7bb51c8c/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/b78e7f3d1d2a5080a5865d2f22b776d8/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] /root/.gradle/caches/transforms-2/files-2.1/2fef4ea71c1b4fe226ffd3fff1cf6464/jetified-soloader-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/85de9c24c6ba41c8fb7f4acac53286f4/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.microsoft.appcenter:appcenter:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/4a4673c90abadd3e862ae98c09732edd/jetified-appcenter-3.3.0/AndroidManifest.xml:6:1-18:12
 MERGED from [com.google.maps.android:android-maps-utils:0.5] /root/.gradle/caches/transforms-2/files-2.1/f796c09e8869c908cc847cd06dcfd119/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
 MERGED from [com.intentfilter:android-permissions:0.1.7] /root/.gradle/caches/transforms-2/files-2.1/68978b90b00f8252dce4a53ad01028ec/jetified-android-permissions-0.1.7/AndroidManifest.xml:2:1-18:12
 MERGED from [com.github.tony19:logback-android:1.1.1-9] /root/.gradle/caches/transforms-2/files-2.1/1b9cf8b6c9ae6ffdc938db20b465503b/jetified-logback-android-1.1.1-9/AndroidManifest.xml:2:1-11:12
@@ -137,6 +139,8 @@ ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidMan
 		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:2:20-78
 uses-permission#android.permission.INTERNET
 ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:3:3-64
+MERGED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
 MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-67
 MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-67
 MERGED from [com.facebook.flipper:flipper:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/6210fe1a1e507e9a8fcf1e8bf1ebdc41/jetified-flipper-0.33.1/AndroidManifest.xml:15:5-67
@@ -145,14 +149,14 @@ MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2
 MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-67
 MERGED from [:react-native-maps] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
 MERGED from [:react-native-maps] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
-MERGED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-67
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-67
-MERGED from [com.microsoft.appcenter:appcenter:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/4a4673c90abadd3e862ae98c09732edd/jetified-appcenter-3.3.0/AndroidManifest.xml:15:5-67
-MERGED from [com.microsoft.appcenter:appcenter:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/4a4673c90abadd3e862ae98c09732edd/jetified-appcenter-3.3.0/AndroidManifest.xml:15:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /root/.gradle/caches/transforms-2/files-2.1/cf48b6a5d1983746bdeb31db066e7936/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /root/.gradle/caches/transforms-2/files-2.1/cf48b6a5d1983746bdeb31db066e7936/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.microsoft.appcenter:appcenter:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/4a4673c90abadd3e862ae98c09732edd/jetified-appcenter-3.3.0/AndroidManifest.xml:15:5-67
+MERGED from [com.microsoft.appcenter:appcenter:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/4a4673c90abadd3e862ae98c09732edd/jetified-appcenter-3.3.0/AndroidManifest.xml:15:5-67
 	android:name
 		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:3:20-62
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
@@ -187,14 +191,14 @@ ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidMan
 		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:10:20-75
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:11:3-78
+MERGED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
 MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
 MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
 MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
 MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
 MERGED from [:react-native-maps] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
 MERGED from [:react-native-maps] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
-MERGED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
-MERGED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:5-81
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:5-81
 MERGED from [io.nlopez.smartlocation:library:3.2.11] /root/.gradle/caches/transforms-2/files-2.1/3c2e8c0e83be621b2eb548385ddb26e9/jetified-library-3.2.11/AndroidManifest.xml:12:5-81
@@ -203,12 +207,12 @@ MERGED from [io.nlopez.smartlocation:library:3.2.11] /root/.gradle/caches/transf
 		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:11:20-76
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:12:3-76
+MERGED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
 MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:5-79
 MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:5-79
 MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:5-79
 MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:5-79
-MERGED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
-MERGED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:5-79
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:5-79
 MERGED from [io.nlopez.smartlocation:library:3.2.11] /root/.gradle/caches/transforms-2/files-2.1/3c2e8c0e83be621b2eb548385ddb26e9/jetified-library-3.2.11/AndroidManifest.xml:14:5-79
@@ -245,6 +249,10 @@ uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:19:3-78
 MERGED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
 MERGED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:react-native-fs] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-fs] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
 	android:name
 		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:19:20-76
 uses-permission#android.permission.WRITE_SETTINGS
@@ -253,20 +261,22 @@ ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidMan
 		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:20:20-68
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:21:3-76
-MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:5-79
-MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:5-79
 MERGED from [:expo-updates] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-updates/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-79
 MERGED from [:expo-updates] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-updates/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:5-79
+MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:5-79
 MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:5-79
 MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:5-79
+MERGED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-79
+MERGED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-79
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-79
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-79
-MERGED from [com.microsoft.appcenter:appcenter:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/4a4673c90abadd3e862ae98c09732edd/jetified-appcenter-3.3.0/AndroidManifest.xml:16:5-79
-MERGED from [com.microsoft.appcenter:appcenter:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/4a4673c90abadd3e862ae98c09732edd/jetified-appcenter-3.3.0/AndroidManifest.xml:16:5-79
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /root/.gradle/caches/transforms-2/files-2.1/cf48b6a5d1983746bdeb31db066e7936/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /root/.gradle/caches/transforms-2/files-2.1/cf48b6a5d1983746bdeb31db066e7936/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
 MERGED from [io.nlopez.smartlocation:library:3.2.11] /root/.gradle/caches/transforms-2/files-2.1/3c2e8c0e83be621b2eb548385ddb26e9/jetified-library-3.2.11/AndroidManifest.xml:13:5-79
 MERGED from [io.nlopez.smartlocation:library:3.2.11] /root/.gradle/caches/transforms-2/files-2.1/3c2e8c0e83be621b2eb548385ddb26e9/jetified-library-3.2.11/AndroidManifest.xml:13:5-79
+MERGED from [com.microsoft.appcenter:appcenter:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/4a4673c90abadd3e862ae98c09732edd/jetified-appcenter-3.3.0/AndroidManifest.xml:16:5-79
+MERGED from [com.microsoft.appcenter:appcenter:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/4a4673c90abadd3e862ae98c09732edd/jetified-appcenter-3.3.0/AndroidManifest.xml:16:5-79
 	android:name
 		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:21:20-74
 uses-permission#android.permission.WAKE_LOCK
@@ -277,6 +287,8 @@ MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2
 MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:5-68
 MERGED from [:react-native-background-timer] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
 MERGED from [:react-native-background-timer] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
+MERGED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-68
+MERGED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-68
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:5-68
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:5-68
 	android:name
@@ -297,24 +309,26 @@ application
 ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:27:3-49:17
 MERGED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:27:3-49:17
 MERGED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:27:3-49:17
-MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:5-89:19
-MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:5-89:19
 MERGED from [:unimodules-react-native-adapter] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
 MERGED from [:unimodules-react-native-adapter] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
-MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:5-89:19
-MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:5-89:19
-MERGED from [com.facebook.react:react-native:0.62.2] /root/.gradle/caches/transforms-2/files-2.1/f242da40de3c6f68b0bbcc4529851cde/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.62.2] /root/.gradle/caches/transforms-2/files-2.1/f242da40de3c6f68b0bbcc4529851cde/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
 MERGED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
 MERGED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
 MERGED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
 MERGED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:5-89:19
+MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:5-89:19
+MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:5-89:19
+MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:5-89:19
+MERGED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.62.2] /root/.gradle/caches/transforms-2/files-2.1/f242da40de3c6f68b0bbcc4529851cde/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /root/.gradle/caches/transforms-2/files-2.1/f242da40de3c6f68b0bbcc4529851cde/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:5-83:19
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:5-83:19
-MERGED from [com.facebook.soloader:soloader:0.8.2] /root/.gradle/caches/transforms-2/files-2.1/2fef4ea71c1b4fe226ffd3fff1cf6464/jetified-soloader-0.8.2/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.8.2] /root/.gradle/caches/transforms-2/files-2.1/2fef4ea71c1b4fe226ffd3fff1cf6464/jetified-soloader-0.8.2/AndroidManifest.xml:11:5-20
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /root/.gradle/caches/transforms-2/files-2.1/91270e2b3e721892625189244d8bbadd/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /root/.gradle/caches/transforms-2/files-2.1/91270e2b3e721892625189244d8bbadd/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /root/.gradle/caches/transforms-2/files-2.1/7cb910d7d740728b1504fbacb01992e4/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /root/.gradle/caches/transforms-2/files-2.1/7cb910d7d740728b1504fbacb01992e4/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
 MERGED from [androidx.room:room-runtime:2.1.0] /root/.gradle/caches/transforms-2/files-2.1/6af9853f47fad4c93cfd121e201d857f/room-runtime-2.1.0/AndroidManifest.xml:24:5-28:19
 MERGED from [androidx.room:room-runtime:2.1.0] /root/.gradle/caches/transforms-2/files-2.1/6af9853f47fad4c93cfd121e201d857f/room-runtime-2.1.0/AndroidManifest.xml:24:5-28:19
 MERGED from [com.google.android.gms:play-services-location:17.0.0] /root/.gradle/caches/transforms-2/files-2.1/9b7d5e6048413cc79d4dad2ed7f8ce60/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
@@ -333,12 +347,12 @@ MERGED from [com.google.android.gms:play-services-basement:17.0.0] /root/.gradle
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] /root/.gradle/caches/transforms-2/files-2.1/bdf47fc17a251e3d93746e7b68ed3ddb/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/73435d3d97560fff0f796379f3e1a830/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/73435d3d97560fff0f796379f3e1a830/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /root/.gradle/caches/transforms-2/files-2.1/7cb910d7d740728b1504fbacb01992e4/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /root/.gradle/caches/transforms-2/files-2.1/7cb910d7d740728b1504fbacb01992e4/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/c61743b144bc6061dc9838b442bb9b85/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/c61743b144bc6061dc9838b442bb9b85/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [io.nlopez.smartlocation:library:3.2.11] /root/.gradle/caches/transforms-2/files-2.1/3c2e8c0e83be621b2eb548385ddb26e9/jetified-library-3.2.11/AndroidManifest.xml:18:5-28:19
 MERGED from [io.nlopez.smartlocation:library:3.2.11] /root/.gradle/caches/transforms-2/files-2.1/3c2e8c0e83be621b2eb548385ddb26e9/jetified-library-3.2.11/AndroidManifest.xml:18:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.8.2] /root/.gradle/caches/transforms-2/files-2.1/2fef4ea71c1b4fe226ffd3fff1cf6464/jetified-soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /root/.gradle/caches/transforms-2/files-2.1/2fef4ea71c1b4fe226ffd3fff1cf6464/jetified-soloader-0.8.2/AndroidManifest.xml:11:5-20
 MERGED from [com.google.maps.android:android-maps-utils:0.5] /root/.gradle/caches/transforms-2/files-2.1/f796c09e8869c908cc847cd06dcfd119/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
 MERGED from [com.google.maps.android:android-maps-utils:0.5] /root/.gradle/caches/transforms-2/files-2.1/f796c09e8869c908cc847cd06dcfd119/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
 MERGED from [com.intentfilter:android-permissions:0.1.7] /root/.gradle/caches/transforms-2/files-2.1/68978b90b00f8252dce4a53ad01028ec/jetified-android-permissions-0.1.7/AndroidManifest.xml:11:5-16:19
@@ -404,17 +418,17 @@ ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidMan
 activity#com.example.MainActivity
 ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:33:5-44:16
 	android:screenOrientation
-		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:33:276-312
+		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:33:274-310
 	android:label
 		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:33:44-76
 	android:launchMode
-		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:33:155-186
+		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:33:155-184
 	android:windowSoftInputMode
-		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:33:187-229
+		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:33:185-227
 	android:configChanges
 		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:33:77-154
 	android:theme
-		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:33:230-275
+		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:33:228-273
 	android:name
 		ADDED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml:33:15-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
@@ -459,54 +473,14 @@ uses-sdk
 INJECTED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml
 INJECTED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml
-MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-27:41
-MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-27:41
-MERGED from [com.facebook.fresco:animated-gif:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/428e9c67886fbbd8d2c8a5f80db60cd1/jetified-animated-gif-1.14.2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-gif:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/428e9c67886fbbd8d2c8a5f80db60cd1/jetified-animated-gif-1.14.2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.flipper:flipper:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/6210fe1a1e507e9a8fcf1e8bf1ebdc41/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/6210fe1a1e507e9a8fcf1e8bf1ebdc41/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/9136e18f5e07f1e1cdfdd9877ccd527a/jetified-flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/9136e18f5e07f1e1cdfdd9877ccd527a/jetified-flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/527a037080dbe1f7c6f2da9867b9d37b/jetified-flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/527a037080dbe1f7c6f2da9867b9d37b/jetified-flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
-MERGED from [:react-native-gesture-handler] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.microsoft.appcenter:appcenter-analytics:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/b05c936e008ae06ea699a593d6172c0e/jetified-appcenter-analytics-3.3.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.microsoft.appcenter:appcenter-analytics:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/b05c936e008ae06ea699a593d6172c0e/jetified-appcenter-analytics-3.3.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.microsoft.appcenter:appcenter-crashes:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/c8458ac9dae20b16ee23921f529609a4/jetified-appcenter-crashes-3.3.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.microsoft.appcenter:appcenter-crashes:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/c8458ac9dae20b16ee23921f529609a4/jetified-appcenter-crashes-3.3.0/AndroidManifest.xml:11:5-13:41
-MERGED from [:react-native-unified-contacts] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-unified-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-unified-contacts] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-unified-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:unimodules-react-native-adapter] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:unimodules-react-native-adapter] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:expo-splash-screen] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:expo-splash-screen] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:expo-updates] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-updates/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:expo-updates] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-updates/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-27:41
-MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-27:41
-MERGED from [:react-native-background-timer] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-background-timer] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-maps] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-maps] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-sms] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-sms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-sms] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-sms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:rn-update-apk] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-update-apk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:rn-update-apk] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-update-apk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.62.2] /root/.gradle/caches/transforms-2/files-2.1/f242da40de3c6f68b0bbcc4529851cde/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.62.2] /root/.gradle/caches/transforms-2/files-2.1/f242da40de3c6f68b0bbcc4529851cde/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
-MERGED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
-MERGED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/618211d1ab883b8af92fe8464427cdc9/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/618211d1ab883b8af92fe8464427cdc9/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/554f6c5de0bab88354f9fe1fd794baf2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/554f6c5de0bab88354f9fe1fd794baf2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/5cf6d9879554602b04fe19782a394b79/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/5cf6d9879554602b04fe19782a394b79/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [:expo-constants] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-constants] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-error-recovery] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-error-recovery] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
 MERGED from [:expo-font] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-font] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-image-loader] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-image-loader/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -519,8 +493,12 @@ MERGED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/
 MERGED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-permissions] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-permissions] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-splash-screen] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-splash-screen] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-sqlite] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-sqlite] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-updates/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-updates/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:unimodules-app-loader] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/unimodules-app-loader/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:unimodules-app-loader] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/unimodules-app-loader/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:unimodules-permissions-interface] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -545,40 +523,52 @@ MERGED from [:unimodules-image-loader-interface] /media/milad/BE7FEA2CE26FB49E/B
 MERGED from [:unimodules-image-loader-interface] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:unimodules-sensors-interface] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:unimodules-sensors-interface] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-27:41
+MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.fresco:animated-gif:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/428e9c67886fbbd8d2c8a5f80db60cd1/jetified-animated-gif-1.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/428e9c67886fbbd8d2c8a5f80db60cd1/jetified-animated-gif-1.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.flipper:flipper:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/6210fe1a1e507e9a8fcf1e8bf1ebdc41/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/6210fe1a1e507e9a8fcf1e8bf1ebdc41/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/9136e18f5e07f1e1cdfdd9877ccd527a/jetified-flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/9136e18f5e07f1e1cdfdd9877ccd527a/jetified-flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/527a037080dbe1f7c6f2da9867b9d37b/jetified-flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/527a037080dbe1f7c6f2da9867b9d37b/jetified-flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-gesture-handler] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/b05c936e008ae06ea699a593d6172c0e/jetified-appcenter-analytics-3.3.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/b05c936e008ae06ea699a593d6172c0e/jetified-appcenter-analytics-3.3.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/c8458ac9dae20b16ee23921f529609a4/jetified-appcenter-crashes-3.3.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/c8458ac9dae20b16ee23921f529609a4/jetified-appcenter-crashes-3.3.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-unified-contacts] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-unified-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-unified-contacts] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-unified-contacts/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-27:41
+MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-27:41
+MERGED from [:react-native-background-timer] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-timer] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-sms] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-sms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sms] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/react-native-sms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-update-apk] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-update-apk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-update-apk] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-update-apk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /root/.gradle/caches/transforms-2/files-2.1/f242da40de3c6f68b0bbcc4529851cde/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /root/.gradle/caches/transforms-2/files-2.1/f242da40de3c6f68b0bbcc4529851cde/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/618211d1ab883b8af92fe8464427cdc9/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/618211d1ab883b8af92fe8464427cdc9/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/554f6c5de0bab88354f9fe1fd794baf2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/554f6c5de0bab88354f9fe1fd794baf2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/5cf6d9879554602b04fe19782a394b79/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/5cf6d9879554602b04fe19782a394b79/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [org.webkit:android-jsc:r245459] /root/.gradle/caches/transforms-2/files-2.1/95b8671820f4b6c435d5c1f558c58c7d/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /root/.gradle/caches/transforms-2/files-2.1/95b8671820f4b6c435d5c1f558c58c7d/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-44
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-44
-MERGED from [com.facebook.fresco:animated-base:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/bcbe5f58b54864ec0d116c583781424d/jetified-animated-base-1.14.2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-base:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/bcbe5f58b54864ec0d116c583781424d/jetified-animated-base-1.14.2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:flipper:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/fce7e95afb155749174e8f3776251f08/jetified-flipper-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:flipper:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/fce7e95afb155749174e8f3776251f08/jetified-flipper-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:stetho:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/23371b4cc5cbefd03534238c32907371/jetified-stetho-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:stetho:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/23371b4cc5cbefd03534238c32907371/jetified-stetho-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/77979f4a869a1075e0e16278c1b2ec27/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/77979f4a869a1075e0e16278c1b2ec27/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/a012574d4deb6bde29af80a3b10dca93/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/a012574d4deb6bde29af80a3b10dca93/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-drawable:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/18a1566c6476deddeaf1c8d4d8650dda/jetified-animated-drawable-1.14.2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-drawable:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/18a1566c6476deddeaf1c8d4d8650dda/jetified-animated-drawable-1.14.2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/056f9c6b64e9137153e66ac9076854ca/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/056f9c6b64e9137153e66ac9076854ca/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/7cf2d6939973e793c7b4f95084f6b68a/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/7cf2d6939973e793c7b4f95084f6b68a/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/b7bd6fd20c32c4976ced2819aa27b001/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/b7bd6fd20c32c4976ced2819aa27b001/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/2ac9ee3251309852a010a40e7bb51c8c/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/2ac9ee3251309852a010a40e7bb51c8c/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/b78e7f3d1d2a5080a5865d2f22b776d8/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/b78e7f3d1d2a5080a5865d2f22b776d8/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.8.2] /root/.gradle/caches/transforms-2/files-2.1/2fef4ea71c1b4fe226ffd3fff1cf6464/jetified-soloader-0.8.2/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.8.2] /root/.gradle/caches/transforms-2/files-2.1/2fef4ea71c1b4fe226ffd3fff1cf6464/jetified-soloader-0.8.2/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/85de9c24c6ba41c8fb7f4acac53286f4/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/85de9c24c6ba41c8fb7f4acac53286f4/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/102f4e5339e61a836806a4922c0ccf33/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/102f4e5339e61a836806a4922c0ccf33/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.microsoft.appcenter:appcenter:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/4a4673c90abadd3e862ae98c09732edd/jetified-appcenter-3.3.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.microsoft.appcenter:appcenter:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/4a4673c90abadd3e862ae98c09732edd/jetified-appcenter-3.3.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /root/.gradle/caches/transforms-2/files-2.1/91270e2b3e721892625189244d8bbadd/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /root/.gradle/caches/transforms-2/files-2.1/91270e2b3e721892625189244d8bbadd/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/2eb5e3945536510164aaa4e72bb14e0e/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -591,6 +581,8 @@ MERGED from [androidx.media:media:1.0.0] /root/.gradle/caches/transforms-2/files
 MERGED from [androidx.media:media:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/cc36db471f6962ec1fa603fd6be01f03/media-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/db772883901338568bd91d7e0fde9bca/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/db772883901338568bd91d7e0fde9bca/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /root/.gradle/caches/transforms-2/files-2.1/7cb910d7d740728b1504fbacb01992e4/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /root/.gradle/caches/transforms-2/files-2.1/7cb910d7d740728b1504fbacb01992e4/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.room:room-runtime:2.1.0] /root/.gradle/caches/transforms-2/files-2.1/6af9853f47fad4c93cfd121e201d857f/room-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.room:room-runtime:2.1.0] /root/.gradle/caches/transforms-2/files-2.1/6af9853f47fad4c93cfd121e201d857f/room-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.gms:play-services-location:17.0.0] /root/.gradle/caches/transforms-2/files-2.1/9b7d5e6048413cc79d4dad2ed7f8ce60/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
@@ -633,8 +625,6 @@ MERGED from [androidx.core:core:1.1.0] /root/.gradle/caches/transforms-2/files-2
 MERGED from [androidx.core:core:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/73435d3d97560fff0f796379f3e1a830/core-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/df191918bea949ce61e7ca62b4b75df6/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/df191918bea949ce61e7ca62b4b75df6/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /root/.gradle/caches/transforms-2/files-2.1/7cb910d7d740728b1504fbacb01992e4/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /root/.gradle/caches/transforms-2/files-2.1/7cb910d7d740728b1504fbacb01992e4/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /root/.gradle/caches/transforms-2/files-2.1/9363be91672234732618b7546d40bbfc/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /root/.gradle/caches/transforms-2/files-2.1/9363be91672234732618b7546d40bbfc/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.sqlite:sqlite:2.0.1] /root/.gradle/caches/transforms-2/files-2.1/068227a52accd5937ce41538b107a260/sqlite-2.0.1/AndroidManifest.xml:20:5-44
@@ -659,8 +649,36 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /root/.gradle/caches/
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /root/.gradle/caches/transforms-2/files-2.1/62f2845e931165ac043d2c80125779ed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/eb4679ed75dd889c20a694ae024d9632/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/eb4679ed75dd889c20a694ae024d9632/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/a012574d4deb6bde29af80a3b10dca93/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/a012574d4deb6bde29af80a3b10dca93/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/fce7e95afb155749174e8f3776251f08/jetified-flipper-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/fce7e95afb155749174e8f3776251f08/jetified-flipper-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/23371b4cc5cbefd03534238c32907371/jetified-stetho-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/23371b4cc5cbefd03534238c32907371/jetified-stetho-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/77979f4a869a1075e0e16278c1b2ec27/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/77979f4a869a1075e0e16278c1b2ec27/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
 MERGED from [io.nlopez.smartlocation:library:3.2.11] /root/.gradle/caches/transforms-2/files-2.1/3c2e8c0e83be621b2eb548385ddb26e9/jetified-library-3.2.11/AndroidManifest.xml:8:5-10:41
 MERGED from [io.nlopez.smartlocation:library:3.2.11] /root/.gradle/caches/transforms-2/files-2.1/3c2e8c0e83be621b2eb548385ddb26e9/jetified-library-3.2.11/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:animated-base:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/bcbe5f58b54864ec0d116c583781424d/jetified-animated-base-1.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/bcbe5f58b54864ec0d116c583781424d/jetified-animated-base-1.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/18a1566c6476deddeaf1c8d4d8650dda/jetified-animated-drawable-1.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.14.2] /root/.gradle/caches/transforms-2/files-2.1/18a1566c6476deddeaf1c8d4d8650dda/jetified-animated-drawable-1.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/056f9c6b64e9137153e66ac9076854ca/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/056f9c6b64e9137153e66ac9076854ca/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/7cf2d6939973e793c7b4f95084f6b68a/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/7cf2d6939973e793c7b4f95084f6b68a/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/b7bd6fd20c32c4976ced2819aa27b001/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/b7bd6fd20c32c4976ced2819aa27b001/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/2ac9ee3251309852a010a40e7bb51c8c/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/2ac9ee3251309852a010a40e7bb51c8c/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/b78e7f3d1d2a5080a5865d2f22b776d8/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/b78e7f3d1d2a5080a5865d2f22b776d8/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /root/.gradle/caches/transforms-2/files-2.1/2fef4ea71c1b4fe226ffd3fff1cf6464/jetified-soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /root/.gradle/caches/transforms-2/files-2.1/2fef4ea71c1b4fe226ffd3fff1cf6464/jetified-soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/85de9c24c6ba41c8fb7f4acac53286f4/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /root/.gradle/caches/transforms-2/files-2.1/85de9c24c6ba41c8fb7f4acac53286f4/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.microsoft.appcenter:appcenter:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/4a4673c90abadd3e862ae98c09732edd/jetified-appcenter-3.3.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter:3.3.0] /root/.gradle/caches/transforms-2/files-2.1/4a4673c90abadd3e862ae98c09732edd/jetified-appcenter-3.3.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.google.maps.android:android-maps-utils:0.5] /root/.gradle/caches/transforms-2/files-2.1/f796c09e8869c908cc847cd06dcfd119/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
 MERGED from [com.google.maps.android:android-maps-utils:0.5] /root/.gradle/caches/transforms-2/files-2.1/f796c09e8869c908cc847cd06dcfd119/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
 MERGED from [com.intentfilter:android-permissions:0.1.7] /root/.gradle/caches/transforms-2/files-2.1/68978b90b00f8252dce4a53ad01028ec/jetified-android-permissions-0.1.7/AndroidManifest.xml:7:5-9:41
@@ -679,6 +697,50 @@ INJECTED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/debug/Androi
 	android:minSdkVersion
 		INJECTED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/main/AndroidManifest.xml
 		INJECTED from /media/milad/BE7FEA2CE26FB49E/Bia/Bia/android/app/src/debug/AndroidManifest.xml
+meta-data#org.unimodules.core.AppLoader#react-native-headless
+ADDED from [:unimodules-react-native-adapter] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-14:91
+	android:value
+		ADDED from [:unimodules-react-native-adapter] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-88
+	android:name
+		ADDED from [:unimodules-react-native-adapter] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-79
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:5-77
+MERGED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:5-77
+MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:5-77
+MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:5-77
+	android:name
+		ADDED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
 uses-permission#android.hardware.location
 ADDED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:5-65
 MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:5-65
@@ -737,16 +799,6 @@ MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad
 MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:5-80
 	android:name
 		ADDED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:22-77
-uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:5-77
-MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:5-77
-MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:5-77
-MERGED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
-MERGED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
-MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:5-77
-MERGED from [:@mauron85_react-native-background-geolocation-common] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:5-77
-	android:name
-		ADDED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:22-74
 service#com.marianhello.bgloc.sync.SyncService
 ADDED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:9-55:19
 MERGED from [:mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:9-55:19
@@ -855,42 +907,24 @@ ADDED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2
 		ADDED from [:@mauron85_react-native-background-geolocation] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:86:25-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/6210fe1a1e507e9a8fcf1e8bf1ebdc41/jetified-flipper-0.33.1/AndroidManifest.xml:16:5-76
+MERGED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-76
+MERGED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-76
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.33.1] /root/.gradle/caches/transforms-2/files-2.1/6210fe1a1e507e9a8fcf1e8bf1ebdc41/jetified-flipper-0.33.1/AndroidManifest.xml:16:22-73
-meta-data#org.unimodules.core.AppLoader#react-native-headless
-ADDED from [:unimodules-react-native-adapter] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-14:91
-	android:value
-		ADDED from [:unimodules-react-native-adapter] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-88
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-73
 	android:name
-		ADDED from [:unimodules-react-native-adapter] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-79
-uses-permission#android.permission.STORAGE
-ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
-	android:name
-		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
-provider#expo.modules.filesystem.FileSystemFileProvider
-ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+		ADDED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-70
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-44:20
 	android:grantUriPermissions
-		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+		ADDED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-47
 	android:authorities
-		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+		ADDED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-60
 	android:exported
-		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
-	tools:replace
-		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+		ADDED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-37
 	android:name
-		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
-meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
-	android:resource
-		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
-	android:name
-		ADDED from [:expo-file-system] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
-service#expo.modules.location.services.LocationTaskService
-ADDED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
-	android:exported
-		ADDED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
-	android:name
-		ADDED from [:expo-location] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+		ADDED from [:rn-fetch-blob] /media/milad/BE7FEA2CE26FB49E/Bia/Bia/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-62
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.1.0] /root/.gradle/caches/transforms-2/files-2.1/6af9853f47fad4c93cfd121e201d857f/room-runtime-2.1.0/AndroidManifest.xml:25:9-27:40
 	android:exported

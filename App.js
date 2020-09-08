@@ -1,11 +1,9 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import {createStore} from 'redux';
 import {Provider} from 'react-redux'
 import Index from './components/index/index'
 import BackgroundGeolocation from '@mauron85/react-native-background-geolocation';
-import {isInside} from './utilities/distance';
 import BackgroundTimer from 'react-native-background-timer';
-import {StyleSheet} from "react-native";
 import Updater from './utilities/updater'
 
 const initialState = {
@@ -122,6 +120,7 @@ function setLocation({ latitude, longitude }){
 }
 
 export default function App () {
+	useEffect( () => {Updater.checkUpdate()}, []);
 	return(
 		<Provider store={store}>
 			<Index setLocation={setLocation} cancelDestination={cancelDestination}/>
