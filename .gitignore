@@ -25,6 +25,7 @@ project.xcworkspace
 # Android/IntelliJ
 #
 build/
+!/android/build/outputs/apk/release/app-armeabi-v7a-release.apk
 .idea
 .gradle
 local.properties
